@@ -15,4 +15,5 @@ restart the chrome-remote-desktop by the command
 
 # It can fix
  Start a remote desktiop session only result with a blank screen
+ 
  chrome remote desktop on Ubuntu only shows wallpaper 
